@@ -10,7 +10,7 @@ googleapis-common-protos==1.56.4
 greenlet==2.0.2
 grpc-gateway-protoc-gen-openapiv2==0.1.0
 grpcio==1.53.0
-langchain==0.0.137
+langchain==0.3.0
 linkify-it-py==2.0.0
 loguru==0.7.0
 lz4==4.3.2
