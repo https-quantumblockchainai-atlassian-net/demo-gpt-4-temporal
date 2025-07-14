@@ -59,7 +59,7 @@ packaging==23.1
 pandas==1.5.3
 Pillow==9.5.0
 pinecone-client==2.2.1
-protobuf==4.22.3
+protobuf==4.25.8
 pycparser==2.21
 pydantic==1.10.7
 Pygments==2.15.1
@@ -95,7 +95,7 @@ typing-inspect==0.8.0
 typing_extensions==4.5.0
 uc-micro-py==1.0.1
 unstructured==0.5.12
-urllib3==1.26.16
+urllib3==2.5.0
 uvicorn==0.22.0
 wrapt==1.14.1
 XlsxWriter==3.1.0
