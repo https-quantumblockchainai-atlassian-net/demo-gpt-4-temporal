@@ -1,6 +1,7 @@
 # A Cloud Dev Assistant with GPT-4 and Pinecone on Gitpod
 
 ![Gitpod Temporal Environment](assets/ai-assistant.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdemo-gpt-4-temporal.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdemo-gpt-4-temporal?ref=badge_shield)
 
 A demo using Gitpod and Temporal to demonstrate GPT-4 coding assistant workflows. 
 
@@ -71,3 +72,6 @@ There's an interactive version of the GPT-4 API running by default in this repo.
 You can use this to query GPT-4 via the API and keep track of the questions you ask over time.
 
 # Check out the [blog post](https://gitpod.io/blog/building-cloud-dev-assistants-with-gpt-4-on-gitpod)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdemo-gpt-4-temporal.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fdemo-gpt-4-temporal?ref=badge_large)
