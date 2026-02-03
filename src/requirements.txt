@@ -51,7 +51,7 @@ packaging==23.1
 pandas==1.5.3
 Pillow==9.5.0
 pinecone-client==2.2.1
-protobuf==4.22.3
+protobuf==6.33.5
 pydantic==1.10.7
 Pygments==2.15.1
 pypandoc==1.11
